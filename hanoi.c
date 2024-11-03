@@ -1,4 +1,6 @@
- 
+ #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 void tower(int n, char source, char temp, char destination) 
 { 
     if (n == 0) 
